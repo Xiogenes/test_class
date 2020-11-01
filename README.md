@@ -1,0 +1,1 @@
+Simple use of classes in a header file.
